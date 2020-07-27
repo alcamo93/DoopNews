@@ -1,6 +1,6 @@
-# Doop News dApp
+ Doop News dApp
 
-https://imagizer.imageshack.com/v2/70x70q90/c/924/UfBRpX.png
+./
 
 ---
 
