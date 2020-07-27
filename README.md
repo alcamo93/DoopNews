@@ -1,6 +1,6 @@
  Doop News dApp
 
-![img](https://github.com/alcamo93/DoopNews/DoopNewsP2.svg)
+![Preview](https://github.com/alcamo93/DoopNews/DoopNewsP2.svg)
 
 ---
 
