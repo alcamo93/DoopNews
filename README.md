@@ -1,14 +1,10 @@
-# Instagram-like dApp
+# Doop News dApp
 
-A simple Ethereum-based [Instagram](https://www.instagram.com/)-like decentralized application (dapp) where you can post images, text, and view it.
 
-This repository is used in this Medium article:
-
-https://medium.com/@gdmerida.bit/https-medium-com-creating-an-instagram-like-dapp-with-ipfs-cc4fac85cbfe
 
 ---
 
-![Instagram](https://s2.gifyu.com/images/demo_50.gif)
+![Instagram](https://)
 
 ## Prerequisites
 
@@ -20,7 +16,7 @@ https://medium.com/@gdmerida.bit/https-medium-com-creating-an-instagram-like-dap
 Clone this repo via to your local machine and install the dependencies by doing the following:
 
 ```bash
-git clone git@github.com:openberry-ac/instagram.git
+git clone 
 cd instagram
 npm install
 ```
@@ -35,8 +31,6 @@ npm run dev
 
 If it is only the boilerplate that you want to clone, do it via:
 
-```
-git clone git@github.com:openberry-ac/instagram.git --branch boilerplate --single-branch
 ```
 
 And then do the same following commands as shown above for starting the application, you should be all set by then.
@@ -56,12 +50,11 @@ Anyone can become a blockchain engineer!
 
 **Website:**
 
-https://openberry.ac/
 
 **Medium:**
 
-https://medium.com/openberry
+
 
 **Twitter:**
 
-https://twitter.com/openberry_ac
+
