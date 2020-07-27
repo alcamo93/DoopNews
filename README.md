@@ -1,5 +1,4 @@
  Doop News dApp
-
 ![Preview](https://github.com/alcamo93/DoopNews/blob/master/DoopNewsP2.svg)
 
 ---
