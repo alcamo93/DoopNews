@@ -1,6 +1,6 @@
 # Doop News dApp
 
-
+https://imagizer.imageshack.com/v2/70x70q90/c/924/UfBRpX.png
 
 ---
 
@@ -42,11 +42,11 @@ And then do the same following commands as shown above for starting the applicat
 * [web3.js](https://github.com/ethereum/web3.js/) - Javascript library used to interact with the Ethereum blockchain
 * [IPFS](https://docs.ipfs.io/) - InterPlanetary File System for peer-to-peer decentralized data storage. 
 
-## openberry
+## Escuela Blockchain
 
 Anyone can become a blockchain engineer!
 
-**DoopNews** is a tutorial marketplace, designed to enable anyone to learn blockchain programming.
+**DoopNews** is a tutorial, designed to enable anyone to learn blockchain programming.
 
 **Website:**
 
