@@ -4,7 +4,7 @@
 
 ---
 
-![Instagram](https://)
+![DoopNews](https://)
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ Clone this repo via to your local machine and install the dependencies by doing 
 
 ```bash
 git clone 
-cd instagram
+cd DoopNews
 npm install
 ```
 
@@ -46,7 +46,7 @@ And then do the same following commands as shown above for starting the applicat
 
 Anyone can become a blockchain engineer!
 
-**openberry** is a tutorial marketplace, designed to enable anyone to learn blockchain programming.
+**DoopNews** is a tutorial marketplace, designed to enable anyone to learn blockchain programming.
 
 **Website:**
 
