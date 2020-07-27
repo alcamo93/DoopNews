@@ -1,6 +1,6 @@
  Doop News dApp
 
-./
+./Doop News_p2.svg
 
 ---
 
